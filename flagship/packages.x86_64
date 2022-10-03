@@ -122,35 +122,26 @@ xl2tpd
 zsh
 
 ############################################ plasma
-
+sddm
 plasma
 thunar
 leafpad
 alacritty
-
+xorg
 ########################################### browser
-
 firefox
-
 ########################################## media player
-
 vlc
-
 ########################################## music player
-
 lollypop
-
 ########################################## dev
-
 git
 nodejs
 npm
 auto-cpufreq
 vim
 curl
-
 ######################################## gaming
-
 wine
 wine-gecko
 wine-mono
@@ -159,15 +150,11 @@ OpenGL
 proton
 steam
 lutris
-
 ########################################## aur
-
 yay
 pamac
 octopi
-
 ######################################### graphic drivers
-
 vulkan-mesa-layers
 opencl-mesa
 vulkan-intel
@@ -176,20 +163,14 @@ vulkan-swrast
 libva-mesa-driver
 mesa-vdpau
 mesa
-
 ######################################### jatayu
-
 grub-theme-vimix
 jatayu-assets
 jatayu-wallpapers
 jl-hooks
-
 ######################################## fonts
-
 ttf-ms-fonts
-
 ######################################## extras
-
 latte-dock
 plasma-systemmonitor
 grub-customizer

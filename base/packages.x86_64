@@ -122,29 +122,22 @@ xl2tpd
 zsh
 
 ############################################ plasma
-
 plasma
 thunar
 leafpad
 alacritty
-
+sddm
+xorg
 ########################################### browser
-
 firefox
-
 ########################################## media player
-
 vlc
-
 ######################################### jatayu
-
 grub-theme-vimix
 jatayu-assets
 jatayu-wallpapers
 jl-hooks
-
 ######################################## extras
-
 latte-dock
 fish
 neofetch
